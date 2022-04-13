@@ -1,0 +1,30 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #photo{
+    background-image: url("https://i.imgur.com/2xhi6v1.jpg");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .introduce {
+    text-align: center;
+    font-size: 22px;
+    font-family:monospace;
+  }
+  
+  .red {
+    color: #FF0000;
+  }
+  
+  audio {
+    display:none;
+  }
+  
